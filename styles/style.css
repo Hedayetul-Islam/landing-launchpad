@@ -48,3 +48,12 @@ header{
 .banner h1{
     font-size: 65px;
 }
+
+/* Action section styles */
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1270px;
+    margin: 0 auto;
+}
