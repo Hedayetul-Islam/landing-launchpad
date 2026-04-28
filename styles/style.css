@@ -6,6 +6,15 @@
     font-family: "Raleway", sans-serif;
 }
 
+main{
+    max-width: 1270px;
+    margin: 0 auto;
+}
+
+section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 button{
     background-color: #4E47FF;
     color: #fff;
@@ -58,10 +67,6 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1270px;
-    margin: 0 auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
 }
 
 .action-details *{
